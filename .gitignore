@@ -1,0 +1,17 @@
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+token.txt
+__pycache__/
+.ipynb_checkpoints/
+data/
+raw/
+checkpoints/
+embedding_cache/
+model_artifacts/
+*.tif
+*.tiff
+*.npz
+*.csv
